@@ -1,4 +1,4 @@
 # CPSC221
-UBC CPSC221 
+UBC CPSC221 Winter 2022-2023
 
 PA and Labs
